@@ -1,4 +1,11 @@
-### YO👋
+### YO👋 I'm SHIVANK
+#### I am a full Stack Developer   
+
+- 🔭 I’m currently working on my MERN Stack and java.
+- 🌱 I’m currently learning Backend & APIs
+- 👯 I’m looking to collaborate on Full stack web development
+- 🤔 I’m looking for help with Backend & APIs
+📫 How to reach me: [shivankkunwar100@gmail.com](mailto:shivankkunwar100@gmail.com) & [Twitter @this_is_shivank](https://twitter.com/this_is_shivank)
 
 <!--
 **shivankkunwar/shivankkunwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
