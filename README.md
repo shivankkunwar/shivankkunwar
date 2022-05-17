@@ -1,7 +1,7 @@
 ### YO👋 I'm SHIVANK
 #### I am a full Stack Developer   
 
-- 🔭 I’m currently working on my MERN Stack and java skills.
+- 🔭 I’m currently working on my MERN Stack and Java skills.
 - 🌱 I’m currently learning Backend & APIs
 - 👯 I’m looking to collaborate on Full stack web development
 - 🤔 I’m looking for help with Backeadnd & APIs
