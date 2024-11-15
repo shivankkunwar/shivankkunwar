@@ -1,23 +1,15 @@
-### YO👋 I'm SHIVANK
-#### I am a full Stack Developer   
-#Portfolio [link](https://portfolio-shivank.vercel.app/)
-- 🔭 I’m currently working on my MERN,PERN Stack and Java skills.
-- 🌱 I’m currently learning Backend & APIs
-- 👯 I’m looking to collaborate on Full stack web development
-- 🤔 I’m looking for help with Backend & APIs
-📫 How to reach me: [shivankkunwar100@gmail.com](mailto:shivankkunwar100@gmail.com) & [Twitter @this_is_shivank](https://twitter.com/this_is_shivank)
 
-<!--
-**shivankkunwar/shivankkunwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I am Shivank! 
+I am a  Full stack software engineer, I enjoy tackling complex challenges and creating innovative solutions that enhance user experiences..
 
-Here are some ideas to get you started:
+- 🌐 Visit my [portfolio website](https://portfolio-shivank.vercel.app/) for more information and to get in touch.
+- ✍️ Follow me on [Twitter](https://x.com/ShivankKun19163) for more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivankkunwar&show_icons=true&theme=dark" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shivankkunwar&theme=dark&hide_border=true" width="400">
+</p>
+
+---
