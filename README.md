@@ -2,7 +2,7 @@
 # Hi 👋 I am Shivank! 
 I am a  Full stack software engineer, I enjoy tackling complex challenges and creating innovative solutions that enhance user experiences..
 
-- 🌐 Visit my [portfolio website](https://portfolio-shivank.vercel.app/) for more information and to get in touch.
+- 🌐 Visit my [portfolio website](https://shvnk.in) for more information and to get in touch.
 - ✍️ Follow me on [Twitter](https://x.com/ShivankKun19163) for more.
 
 ---
